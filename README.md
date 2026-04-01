@@ -73,7 +73,3 @@ No additional Python packages required.
 ## License
 
 MIT License - See [LICENSE](LICENSE) file
-
-## Credits
-
-Created by **Coyotte**
