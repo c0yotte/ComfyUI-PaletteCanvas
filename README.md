@@ -3,6 +3,9 @@
 
 **Control lighting in AI-generated images through color gradients and shapes.**
 
+<img width="450" height="374" alt="image" src="https://github.com/user-attachments/assets/95160a67-db3a-4487-b35a-5129822bdea7" />
+
+
 This ComfyUI custom node creates color canvases that serve as lighting maps for text-to-image generation workflows. By encoding these gradients through VAE and using them as initial latents with lowered denoise (0.87-0.95 instead of 1), you can precisely control the mood, atmosphere, and illumination of your generated images.
 
 ## The Concept
