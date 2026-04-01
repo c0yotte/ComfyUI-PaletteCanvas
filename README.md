@@ -1,4 +1,4 @@
-# Coyotte's Palette Canvas (RGB)
+# Palette Canvas
 
 
 **Control lighting in AI-generated images through color gradients and shapes.**
